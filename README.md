@@ -12,7 +12,7 @@ For this you will need:
 
 # Set-up
 
-### A detailed guide can be found [here](https://github.com/Cybrancee/Bot-Restart-Action)
+### A detailed guide can be found [On the Cybrancee Knowledge Base](https://cybrancee.com/learn/knowledge-base/how-to-automatically-restart-your-bot-after-pushing-changes-to-github/)
 
 The GitHub action requires 1 secret and 1 variable to be setup in your repository. To do this navigate to your repository settings and click on "Secrets and Variables" and then click "Actions"
 </br>
